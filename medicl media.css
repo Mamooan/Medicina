@@ -1,0 +1,173 @@
+@media screen and (max-width:600px){
+    .a4>i{
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    .a3>h2{
+        font-size: 15px;
+        margin-left: 5px;
+    }
+    .a5,.in,.input,.a8{
+        display: none;
+    }
+    .a1{
+        margin-right: 0px;
+    }
+    .a3{
+        width: 30%;
+        margin-left: 0px;
+    }
+    .a6{
+        width: auto;
+        margin-left: 130px;
+    }
+    .a7>h4{
+        font-size: 13px;
+    }
+    .a2{
+        height: 6vh;
+    }
+    .a{
+        width: 25%;
+    }
+    .b2{
+        height: auto;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .b3{
+        height: auto;
+        width: 100%;
+    }
+    .b3>input,.b3>label,.b4>label,.b4>input{
+        margin-left: 25px;
+    }
+    .b5>input,.b5>label{
+        margin-left: 20px;
+    }
+    .b5>button{
+        margin-left: 20px;
+        height: auto;
+        width: 70%;
+        padding: 10px;
+    }
+    .b4{
+        height: auto;
+        width: 45%;
+
+    }
+    .b{
+        height: 90vh;
+        width: 100%;
+    }
+    .b>h1{
+        font-size: 25px;
+    }
+    .b>img{
+        width: 50%;
+    }
+    .b>button{
+        height: auto;
+        width: auto;
+        padding: 5px;
+    }
+    .b6{
+        margin-top: 100px;
+    }
+    .b8{
+        margin-top: 10px;
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    .b9{
+        height: auto;
+        width: 80%;
+    }
+    .c{
+        height: 70vh;
+        margin-top: 570px;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    .c1{
+        height: 30%;
+        width: 80%;
+    }
+    .c10{
+        height: 200vh;
+    }
+    .c11{
+        height: 80%;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .c12{
+        height: 45%;
+        width: 80%;
+    }
+    .d>h1{
+        font-size: 30px;
+    }
+    .d>p{
+        font-size: 14px;
+    }
+    .d>button{
+        height: 8vh;
+        width: 30%;
+    }
+    .d3{
+        height: 40%;
+    }
+    .d7{
+        height: 60vh;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 20px;
+
+    }
+    .d8{
+        height: 45%;
+        width: 90%;
+    }
+    #one{
+        margin-top: 50px;
+    }
+    .e{
+        height: 30%;
+    }
+    .c12>button{
+        height: 5vh;
+        width: 30%;
+    }
+    .b7>img,.d2>img{
+        height: 6vh;
+        width: 20%;
+    }
+    .b11{
+        height: 6vh;
+        width: 26%;
+        padding: 7px;
+    }
+    .g7{
+        justify-content: space-evenly;
+    }
+    .z1,.g2,.b9::after,.x::after,#z10::before{
+        display: none;
+    }
+    .g9{
+        margin-left: 50px;
+        width: 45%;
+    }
+    .g1>h2{
+     font-size: 16px;
+    }
+    .g3{
+        width: 35%;
+    }
+}
